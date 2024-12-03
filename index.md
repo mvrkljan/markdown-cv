@@ -80,11 +80,11 @@ User-driven information systems, content-management systems, real-time applicati
 
 ## Education
 
-**univ.bacc.ing.comp, Information systems and software engineering**  
-Faculty of Electrical Engineering and Computing, Zagreb, Croatia | 2009 
-
 **M.Sc. (Comp), Information systems and software engineering**  
 Faculty of Electrical Engineering and Computing, Zagreb, Croatia | 2011
+
+**univ.bacc.ing.comp, Information systems and software engineering**  
+Faculty of Electrical Engineering and Computing, Zagreb, Croatia | 2009 
 
 ## Projects
 
